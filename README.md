@@ -1,4 +1,4 @@
-# Consultar CEP Correios
+﻿# Consultar CEP Correios
 
 Consulte um CEP Tranquilamente!
 
@@ -12,9 +12,9 @@ Para começar a usar este modelo, faça um fork ou um clone do projeto:
 
 ## Creator
 
-Esse Projeto foi criado e é mantido pro **[Bruno César](https://github.com/bru_ce/).
+Esse Projeto foi criado e é mantido pro **[Bruno César](https://github.com/bru-ce/).
 
-* https://github.com/bru_ce
+* https://github.com/bru-ce
 
 Password Generator é baseado no Framework [Bootstrap](http://getbootstrap.com/).
 
